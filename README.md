@@ -9,7 +9,7 @@ USB2.0 Hub chip with four downstream ports (SL2.1s) running three nrf52840 (MS88
 BOM can be viewed [here](https://htmlpreview.github.io/?https://github.com/ugokutennp/nrf52840-x3/blob/main/Hardware/PCB/nrf52840_hub.html).Other data are below.
 
 [schematic](images/schematic.pdf),
-[layout](images/schematic.pdf)
+[layout](images/Layout.png)
 
 ## Bootloader
 
